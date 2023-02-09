@@ -1,4 +1,4 @@
-### Google Clone 
+# Google Clone 
 
 ## Google Clone is a single-page application built with React.js that replicates the functionality and appearance of Google's search page.
 
